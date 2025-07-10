@@ -1,6 +1,6 @@
 [package]
 name = "solana-config-program"
-version = "3.0.0"
+version = "2.2.19"
 description = "Solana Config Program"
 authors = { workspace = true }
 repository = { workspace = true }
